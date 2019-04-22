@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="date">#3949AB</color>
+    <color name="name">#00897B</color>
+    <color name="comment">#000000</color>
 </resources>

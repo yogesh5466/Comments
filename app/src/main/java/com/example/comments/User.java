@@ -1,7 +1,7 @@
 package com.example.comments;
 
 public class User {
-    Long UniqueID;
-    String Name;
-    Long CommentCount;
+    public Long UniqueID;
+    public String Name;
+    public Long CommentCount;
 }
